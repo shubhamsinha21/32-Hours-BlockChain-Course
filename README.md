@@ -21,5 +21,6 @@ III. Fund Me
 # 12. Testnet Vs Testnet Faucet #
 # 13. Terms #
 ## Gas, Transaction Fee, Gas Limit ##
+## Private Key, Public Key, Hash, Block, Nonce, Decentralised ##
 
 
