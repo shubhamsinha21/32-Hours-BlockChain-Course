@@ -6,7 +6,6 @@ Smart contract created -
 I. SimpleStorage
 II. StorageFactory
 III. Fund Me 
-### HELLO ###
 
 ## What I have Learned till now ? ##
 # 1. Bitcoin Whitepaper #
@@ -17,5 +16,10 @@ III. Fund Me
 # 6. Smart Contracts platform released by Etherium.. #
 # 7. Layer 2 Protocol #
 # 8. Web1 Vs Web3 Vs Web3 #
+# 9.How Smart Contract Works ? #
+# 10. Growth of Smart Contracts so far.. #
+# 12. Testnet Vs Testnet Faucet #
+# 13. Terms #
+## Gas, Transaction Fee, Gas Limit ##
 
 
